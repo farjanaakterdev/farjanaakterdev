@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpeg" alt="Farjana Akter" width="95%" height = "70%">
+  <img src="./banner.jpeg" alt="Farjana Akter" width="100%" height = "50%">
 </p>
 <div align="center">
 <h4>
