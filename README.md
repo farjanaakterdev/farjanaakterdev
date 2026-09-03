@@ -109,7 +109,7 @@
 
 
 
-<h2 align="center">🤝 CONNECT WITH ME</h2>
+<h2>🤝 CONNECT WITH ME</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farjana-akter89" target="_blank">
