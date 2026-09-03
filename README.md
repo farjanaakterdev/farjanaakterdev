@@ -104,31 +104,15 @@
 ### 💻 Most Used Languages
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjanaakterdev&layout=compact&theme=tokyonight"
-/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjanaakterdev&layout=compact&theme=tokyonight"
+    alt="Most Used Languages"
+  />
 </p>
 
 
 <br>
 
-
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-# 🐍 CONTRIBUTIONS
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=farjanaakterdev&theme=tokyo-night"
-/>
-
-</p>
-
-
-<br>
 
 
 <!-- ===================== CONNECT ===================== -->
@@ -136,6 +120,19 @@
 # 🤝 FOLLOW ME ON SOCIALS
 
 
+<p align="center">
+
+<a href="www.linkedin.com/in/farjana-akter89">
+  LinkedIn
+</a>
+<a href="https://www.facebook.com/farjana.shanta.89951">
+  Facebook
+</a>
+<a href="https://discord.com/users/1476100881148543108">
+  Discord
+</a>
+
+</p>
 
 
 <br>
@@ -145,4 +142,4 @@
 
 # ✨ MY MOTTO
 
-> "Keep learning, keep building, and become better than yesterday."
+ "Keep learning, keep building, and become better than yesterday."
