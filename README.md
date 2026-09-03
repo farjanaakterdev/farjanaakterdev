@@ -65,7 +65,7 @@
   🔹 Advanced JavaScript <br>
   🔹 TypeScript <br>
   🔹 Problem Solving <br>
-  🔹 Modern Front-End Development
+  🔹 Modern Front-End Development <br>
   🔹 Document Object Model <br>
   🔹React Fundamentals
   
@@ -101,36 +101,33 @@
 </p>
 
 
-### 💻 Most Used Languages
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjanaakterdev&layout=compact&theme=tokyonight"
-    alt="Most Used Languages"
-  />
-</p>
-
 
 <br>
 
-
-
 <!-- ===================== CONNECT ===================== -->
 
-# 🤝 FOLLOW ME ON SOCIALS
 
+
+
+<h2 align="center">🤝 CONNECT WITH ME</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/farjana-akter89" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+ <br>
+ 
 
-<a href="www.linkedin.com/in/farjana-akter89">
-  LinkedIn
-</a>
-<a href="https://www.facebook.com/farjana.shanta.89951">
-  Facebook
-</a>
-<a href="https://discord.com/users/1476100881148543108">
-  Discord
-</a>
+  <a href="https://www.facebook.com/farjana.shanta.89951" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
+  </a>
+
+<br>
+
+  <a href="https://discord.com/users/1476100881148543108" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
+  </a>
+</p>
 
 </p>
 
