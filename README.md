@@ -99,14 +99,12 @@
   <a href="https://www.linkedin.com/in/farjana-akter89" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
- <br>
  
 
   <a href="https://www.facebook.com/farjana.shanta.89951" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
   </a>
 
-<br>
 
   <a href="https://discord.com/users/1476100881148543108" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
