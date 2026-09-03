@@ -79,14 +79,22 @@
 
 # 📊 GITHUB STATISTICS & ANALYSIS
 
-### 📈 GitHub Statistics
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=farjanaakterdev&show_icons=true&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+</p>
 
-<p align="center">
+<br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=farjanaakterdev&show_icons=true&theme=tokyonight"
-/>
+### 💻 Most Used Languages
 
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjanaakterdev&layout=compact&theme=tokyonight&langs_count=6"
+    alt="Most Used Languages"
+  />
 </p>
 
 
