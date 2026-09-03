@@ -76,22 +76,12 @@
 
 
 <!-- ===================== GITHUB STATS ===================== -->
+
 # 📊 GITHUB STATISTICS & ANALYSIS
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=farjanaakterdev&show_icons=true&theme=tokyonight"
-    alt="GitHub Statistics"
-  />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjanaakterdev&layout=compact&theme=tokyonight"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=farjanaakterdev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjanaakterdev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 
